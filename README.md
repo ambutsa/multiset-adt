@@ -63,7 +63,7 @@ https://github.com/CSC207-2024F-UofT/multiset-adt
     - The next "Initial Advice" section highlights a few aspects of the code which your team should think about as you
       explore the code.
 
-- [ ] Based on your group discussion, you should each create your own branch and **write a small piece of code**
+- [X] Based on your group discussion, you should each create your own branch and **write a small piece of code**
   (e.g., a single method in a class or a main method containing client code of another class).
   - Note: If your team identifies any code that needs to be written before others can start their parts,
   you might choose to work on that first, push that branch to the remote, make a pull request to merge it
